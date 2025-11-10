@@ -1,2 +1,11 @@
-# UTS20251
-Dokumentasi Tugas Mahasiswa TRKJ Mata Kuliah Pemrograman Fundamentals &amp; Automation (Python) TA 20251 atas nama MUHAMMMAD RAIHAN, NPM: 2510017514011. Dosen Pengampu: Budi Sunaryo dan Fitri Safnita.
+requirement:
+
+python file
+visual studio code
+
+running code:
+
+python.file.py
+
+screenshot file;
+https://drive.google.com/file/d/1MDMo3H_wid8slxdHverkDvo4F3WrSw7P/view?usp=drivesdk
